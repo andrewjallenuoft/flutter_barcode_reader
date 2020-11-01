@@ -1,10 +1,10 @@
 name: barcode_scan
 description: A flutter plugin for scanning 2D barcodes and QRCodes via camera.
-version: 3.0.2
+version: 3.0.3
 homepage: https://github.com/mintware-de/flutter_barcode_reader
 
 dependencies:
-  protobuf: ^1.0.1
+  protobuf: ^1.1.0
   flutter:
     sdk: flutter
 
